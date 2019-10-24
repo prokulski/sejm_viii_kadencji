@@ -1,6 +1,6 @@
 # Głosowania w Sejmie RP VIII kadencji
 
-Pliki stanowią repozytorium służące do przygotowania stosownego wpisu na blogu http://prokulski.science.
+Pliki stanowią repozytorium służące do przygotowania stosownego wpisu na blogu http://prokulski.science (post w produkcji).
 
 
 ## SKRYPTY

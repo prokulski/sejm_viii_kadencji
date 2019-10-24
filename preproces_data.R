@@ -2,7 +2,7 @@ library(tidyverse)
 library(lubridate)
 
 lista_glosowan <- readRDS("lista_glosowan.rds")
-glosowania <- readRDS("part_glosowania_total.RDS")
+glosowania <- readRDS("glosowania_total.RDS")
 
 lista_glosowan2 <- lista_glosowan %>%
   mutate(g = str_match_all(link, ".*NrPosiedzenia=(\\d+)&NrGlosowania=(\\d++)")) %>%

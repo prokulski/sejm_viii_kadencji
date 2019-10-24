@@ -12,11 +12,11 @@ Skrypt zawiera funkcje do pobrania listy:
 * posiedzeń Sejmu - **wez_liste_posiedzen()**
 * głosowań w ramach każdego z posiedzeń - **wez_liste_glosowan()**
 * listy klubów biorących udział w głosowaniu - **wez_liste_klubow()**
-* indywidualnych wyników głosowań (jak głosował każdy z posłów) danego klubu poselskiego - - **wez_glosowanie_klubu()**
+* indywidualnych wyników głosowań (jak głosował każdy z posłów) danego klubu poselskiego - **wez_glosowanie_klubu()**
 
 W wyniku działania skryptu powstają pliki RDS z danymi.
 
-**UWAGA** skrypt działą bardzo długo (mamy ponad 8 tysięcy głosowań w całej kadencji!), w dodatku lubi się wywalić (głównie ze względu na *przytykanie się* stron Sejmu) i nie na każdym głosowaniu zadziała. Trzeba doglądać.
+**UWAGA** skrypt działa bardzo długo (mamy ponad 8 tysięcy głosowań w całej kadencji!), w dodatku lubi się wywalić (głównie ze względu na *przytykanie się* stron Sejmu) i nie na każdym głosowaniu zadziała. Trzeba doglądać.
 
 
 ### preproces_data.R
